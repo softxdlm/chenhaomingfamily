@@ -1,0 +1,22 @@
+{
+        "caifang": [
+            {
+                "id": "3",
+                "title": "幕后｜时尚大片+幕后采访独家大放送",                
+                "cover": "public/images/caifang/651037041527236932.jpg",
+                "play_url": "https://mp.weixin.qq.com/s/6cdD8QqVYdmNuC9vb_MHlA"
+            },
+            {
+                "id": "2",
+                "title": "《天机谜》专访",                
+                "cover": "public/images/caifang/0010.jpg",
+                "play_url": "http://mp.weixin.qq.com/s/gqfhWtVJmoW6zspLIVmMsw"
+            },
+            {
+                "id": "1",
+                "title": "《再生之乐》花絮与剧照",                
+                "cover": "public/images/caifang/0009.jpg",
+                "play_url": "http://mp.weixin.qq.com/s/BZRSwZ-Dbj3vGK2ChS__WQ"
+            }
+        ]
+}

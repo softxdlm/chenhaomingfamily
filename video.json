@@ -1,0 +1,76 @@
+{
+        "video": [
+            {
+                "id": "12",
+                "title": "再生之乐",
+                "cover": "public/images/video/9213b07eca8065383da5be0c9fdda144ad348265.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XMTY2MzE4Mzg2OA==.html?from=s1.8-3-1.1&spm=a2h0k.8191407.0.0"
+            },
+            {
+                "id": "1",
+                "title": "小角色",
+                "cover": "public/images/video/d18c85a6d5be416b43400e0470fc4b60.jpg",
+                "play_url": "http://vip.1905.com/play/1069971.shtml"
+            },
+            {
+                "id": "4",
+                "title": "江湖学院第一季Ⅰ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDYyOTcy.html?from=s1.8-3-1.1&spm=a2h0k.8191407.0.0"
+            },
+            {
+                "id": "5",
+                "title": "江湖学院第一季Ⅱ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDQ5MjQw.html?spm=a2h0j.8191423.item_XODk1MDQ5MjQw.A"
+            },
+            {
+                "id": "6",
+                "title": "江湖学院第一季Ⅲ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDU0NzQ4.html?spm=a2h0j.8191423.item_XODk1MDU0NzQ4.A"
+            },
+            {
+                "id": "7",
+                "title": "江湖学院第一季Ⅳ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDU2MTQw.html?spm=a2h0j.8191423.item_XODk1MDU2MTQw.A"
+            },
+            {
+                "id": "8",
+                "title": "江湖学院第一季Ⅴ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDU5NjU2.html?spm=a2h0j.8191423.item_XODk1MDU5NjU2.A"
+            },
+            {
+                "id": "9",
+                "title": "江湖学院第一季Ⅵ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDUwNDQ0.html?spm=a2h0j.8191423.item_XODk1MDUwNDQ0.A"
+            },
+            {
+                "id": "10",
+                "title": "江湖学院第一季Ⅶ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDUyODAw.html?spm=a2h0j.8191423.item_XODk1MDUyODAw.A"
+            },
+            {
+                "id": "11",
+                "title": "江湖学院第一季Ⅷ",                
+                "cover": "public/images/video/t0130681f0060342019.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XODk1MDQ3NzYw.html?spm=a2h0j.8191423.item_XODk1MDQ3NzYw.A"
+            },
+            {
+                "id": "3",
+                "title": "昊哥想你们了",                
+                "cover": "public/images/video/0003.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XMTg3NTc5MjMxNg==.html"
+            },
+            {
+                "id": "2",
+                "title": "昊哥神曲 ",
+                "cover": "public/images/video/0002.jpg",
+                "play_url": "http://v.youku.com/v_show/id_XMTg3ODc1OTI3Ng==.html"
+            }            
+        ]
+}

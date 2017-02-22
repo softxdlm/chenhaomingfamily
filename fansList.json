@@ -1,0 +1,46 @@
+{
+        "fans": [
+        	{
+                "id": "7",
+                "title": "昊丝家族2017新年贺词",                
+                "cover": "public/images/fans/651037041527236932.jpg",
+                "play_url": "http://s.wcd.im/v/1oumlZ35/"
+            },
+        	{
+                "id": "6",
+                "title": "昊丝家族冲啊",                
+                "cover": "public/images/fans/AAEIABACGAAg1rDYuwUoxMvU5AIwwgM4_gE.jpg",
+                "play_url": "https://hd.faisco.cn/12489232/5/load.html?style=15"
+            },
+        	{
+                "id": "5",
+                "title": "昊丝家族绕口令",                
+                "cover": "public/images/fans/AAEIABACGAAgv6jYuwUo2uK_vAQwwgM4_gE.jpg",
+                "play_url": "https://hd.faisco.cn/12489232/6/load.html?style=41"
+            },
+            {
+                "id": "4",
+                "title": "小淘气资源库",                
+                "cover": "public/images/fans/0010.jpg",
+                "play_url": "https://share.weiyun.com/80340375b5f4b368e22df7cb3da69d82"
+            },
+            {
+                "id": "3",
+                "title": "昊丝互动群",                
+                "cover": "public/images/fans/0009.jpg",
+                "play_url": "#"
+            },
+            {
+                "id": "2",
+                "title": "昊丝活动推广",                
+                "cover": "public/images/fans/0008.jpg",
+                "play_url": "#"
+            },
+            {
+                "id": "1",
+                "title": "对昊调查问卷",                
+                "cover": "public/images/fans/0007.jpg",
+                "play_url": "https://www.wenjuan.com/s/qYFjMz/"
+            }
+        ]
+}
